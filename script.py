@@ -3,6 +3,7 @@ import sys
 from os import rename
 import requests
 print(sys.version)
+print(sys.flags)
 
 
 def greet(whotogreet):
